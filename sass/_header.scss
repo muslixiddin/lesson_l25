@@ -1,0 +1,55 @@
+ .header__btns{
+   .header__btn-sing-In{
+    padding: 15px;
+    padding-left: 32px;
+    padding-right: 32px;
+    background-color:rgba(2, 137, 122, 1) ;
+   }
+
+ }
+ 
+ .header_link{
+    color: #fff;
+}
+
+.hero{
+    padding-top: 132px;
+.wrapper_hero{
+    display: flex;
+    gap: 700px;
+}
+
+    .hero_left{
+        .hero_title{
+            .wrapper_hero-title{
+                font-weight: 700;
+                font-style: 40px;
+            }
+            .hero_desc{
+                padding-top: 20px;
+            }
+            
+        }
+        .hero_btns{
+            padding-top: 45px;
+            .btn{
+                gap: 50px;
+                .btn_get-started{
+                    border: none;
+                    border-radius: 3px;
+                    padding: 15px,;
+                    padding-left: 41px;
+                    padding-right: 41px;
+                    background: rgba(2, 137, 122, 1);
+                }
+                .watch_video{
+                    background: rgba(34, 52, 61, 1);
+                    border: none;                  
+                    .btn_watch-video_item{
+                        color:C ;
+                    }
+                }
+            }
+        }
+    }
+}

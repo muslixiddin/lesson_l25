@@ -1,0 +1,31 @@
+.product{
+    padding-top: 150px;
+    .product_title{
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .product_cards{
+        padding-left: 100px;
+        width: 1095;
+        height: 204px;
+        display: flex;
+        padding-top: 68px;
+        gap: 100px;
+       
+    }
+   .product_btn-wrapper{
+     display: flex;
+        align-items: center;
+        justify-content: center;
+    .btn_product{   
+        background-color: rgba(2, 137, 122, 1);
+        border: none;
+        border-radius: 5px;
+        padding: 15px;
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+   }
+}

@@ -1,0 +1,34 @@
+.Management{
+    padding-top: 169px;
+    .Management_wrapper{
+        display: flex;
+        gap: 500px;
+        .Manegment_left{
+            width: 486px;
+            height: 435px;
+            padding-top: 10px;
+        }
+    }
+
+    .Management_wrapper-second{
+        padding-top: 150px;
+        display: flex;
+        gap: 500px;
+        .Manegment_left{
+            width: 486px;
+            height: 435px;
+            padding-top: 100px;
+        }
+    }
+
+    .Management_wrapper-thidth{
+        padding-top: 150px;
+        display: flex;
+        gap: 500px;
+        .Manegment_left{
+            width: 486px;
+            height: 435px;
+            padding-top: 100px;
+        }
+    }
+}
